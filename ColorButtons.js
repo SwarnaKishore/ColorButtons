@@ -57,15 +57,15 @@ function displayPlum()
 {
   document.body.bgColor="Plum";
 }
-function displayCoral() 
+function displayPeachPuff() 
 {
-  document.body.bgColor="Coral";
+  document.body.bgColor="PeachPuff";
 }
-function displayCoral() 
+function displayMediumSpringGreen() 
 {
-  document.body.bgColor="Coral";
+  document.body.bgColor="MediumSpringGreen";
 }
-function displayCoral() 
+function displaySandyBrown() 
 {
-  document.body.bgColor="Coral";
+  document.body.bgColor="SandyBrown";
 }
