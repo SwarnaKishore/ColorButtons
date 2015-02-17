@@ -1,7 +1,14 @@
+.Three-Dee{
+font-family: ABeeZee ;
+line-height: 1em;
+color: undefined;
+font-size: 50px;
+text-shadow:0px 0px 0 rgb(231,231,231),1px 1px 0 rgb(216,216,216),2px 2px 0 rgb(202,202,202),3px 3px 0 rgb(187,187,187),4px 4px 0 rgb(173,173,173),5px 5px 0 rgb(158,158,158), 6px 6px 0 rgb(144,144,144),7px 7px 6px rgba(0,0,0,0.6),7px 7px 1px rgba(0,0,0,0.5),0px 0px 6px rgba(0,0,0,.2);}
+
 #chocolate
 {
 	cursor: pointer;
-position :absolute;
+
 margin:10%;
 text-decoration:none;
 color: rgb(153, 132, 100);
@@ -31,8 +38,7 @@ box-shadow:         8px 8px 10px rgba(180, 50, 50, 0.89);
   font-family: 'Lobster', cursive;;
   cursor: pointer;
 	position:absolute;
-  top:50px;
-	right:10%;
+  t
 	color: rgb(255, 255, 226);
 font-size: 30px;
 padding: 21px;
@@ -60,9 +66,7 @@ box-shadow:         -16px -14px 10px rgba(224, 116, 130, 0.63);
 #DarkTurquoise
 {
   cursor: pointer;
-  position:absolute;
-  top:400px;
-  left:100px;
+ 
 height: 150px;
 width: 170px;
 font-size: 16px;
@@ -80,9 +84,7 @@ border: 15px solid #53dac0;
 #Orchid
 {
   cursor: pointer;
-  position:absolute;
-  top:500px;
-  left:500px;
+ 
 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 font-size: 32px;
 padding: 15px 30px;
@@ -103,11 +105,7 @@ box-shadow: 1px 0 0 #BA55D3, 0 1px 0 #BA55D3, 2px 1px 0 #BA55D3, 4px 4px 0 #BA55
 
 #MistyRose
 {
-  
-  cursor: pointer;
-  position:absolute;
-  top:200px;
-  right:300px;
+ 
   cursor: pointer;
   color: rgb(0, 61, 160);
 font-size: 28px;
@@ -135,9 +133,7 @@ box-shadow:         0px 2px 25px rgba(233, 109, 208, 1);
 #Aquamarine
 {
   cursor: pointer;
-  position:absolute;
-  top:600px;
-  right:100px;
+ 
 color: rgb(100, 203, 148);
 font-size: 29px;
 padding: 22px;
@@ -162,9 +158,7 @@ box-shadow:         -10px -21px 11px rgba(157, 185, 70, 0.56);
 #Bisque
 {
   cursor: pointer;
-  position:absolute;
-  top:400px;
-  right:150px;
+ 
  color: rgb(0, 95, 1);
 font-size: 25px;
 padding: 6px;
@@ -184,9 +178,7 @@ box-shadow:         0px 0px 0px rgba(157, 185, 70, 0.56);
 #LightSeaGreen
 {
   cursor: pointer;
-  position:absolute;
- top:650px;
-  left:100px;
+  
  padding-bottom:3%;
 	-moz-box-shadow:inset 2px 7px 5px 0px #ffffff;
 	-webkit-box-shadow:inset 2px 7px 5px 0px #ffffff;
@@ -235,9 +227,7 @@ box-shadow:         0px 0px 0px rgba(157, 185, 70, 0.56);
 {
   font-family: 'Shadows Into Light', cursive;
   cursor: pointer;
-   position:absolute;
-  top:500px;
-  left:1000px;
+   
   -moz-box-shadow:inset 14px 10px 12px 1px #f9eca0;
 	-webkit-box-shadow:inset 14px 10px 12px 1px #f9eca0;
 	box-shadow:inset 14px 10px 12px 1px #f9eca0;
@@ -291,9 +281,7 @@ box-shadow:         0px 0px 0px rgba(157, 185, 70, 0.56);
 #Gold
 {
   cursor: pointer; 
-  position:absolute;
-   top:50px;
-  left:1100px;
+ 
   
   -moz-box-shadow:inset 9px 11px 18px 2px #fff6af;
 	-webkit-box-shadow:inset 9px 11px 18px 2px #fff6af;
@@ -333,8 +321,7 @@ box-shadow:         0px 0px 0px rgba(157, 185, 70, 0.56);
 {
   cursor: pointer;
   position:absolute;
-  top:700px;
-  left:1250px;
+
  -moz-box-shadow:inset 0px 1px 0px 0px #7a1e8c;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #7a1e8c;
 	box-shadow:inset 0px 1px 0px 0px #7a1e8c;
@@ -385,9 +372,7 @@ box-shadow:         0px 0px 0px rgba(157, 185, 70, 0.56);
 #PeachPuff
 {
   cursor: pointer;
-  position:absolute;
-  top:400px;
-  left:1250px;
+  
  color: rgb(255, 230, 230);
 font-size: 20px;
 padding: 10px;
@@ -406,9 +391,7 @@ box-shadow:         14px -4px 2px rgba(150, 111, 144, 0.64);
 #LightSalmon
 {
   cursor: pointer;
-  position:absolute;
-  top:700px;
-  left:800px;
+ 
    width:120px;
   height:40px;
   color:black;
@@ -420,9 +403,7 @@ box-shadow:         14px -4px 2px rgba(150, 111, 144, 0.64);
 #SandyBrown
 { 
   cursor: pointer;
-  position:absolute;
-  top:300px;
-  left:770px;
+ 
   -webkit-box-sizing:border-box;
 	   -moz-box-sizing:border-box;
 	        box-sizing:border-box;
@@ -508,9 +489,7 @@ box-shadow:         14px -4px 2px rgba(150, 111, 144, 0.64);
  {
    
    cursor: pointer;
-   position:absolute;
-   top:100px;
-   left:500px;
+ 
   -moz-box-shadow:inset 14px 10px 12px 1px #caefab;
 	-webkit-box-shadow:inset 14px 10px 12px 1px #caefab;
 	box-shadow:inset 14px 10px 12px 1px #caefab;
