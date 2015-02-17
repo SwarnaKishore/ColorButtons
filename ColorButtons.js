@@ -10,62 +10,62 @@ function  seleted(cell)
   
  function displayChocolate()
 {
-  document.body.bgColor="chocolate";
+  document.body.style.backgroundColor = "chocolate";
 }
  function displayHotPink()
 {
-  document.body.bgColor="HotPink";
+  document.body.style.backgroundColor ="HotPink";
 }
 function displayDarkTurquoise() 
 {
-  document.body.bgColor="DarkTurquoise";
+  document.body.style.backgroundColor ="DarkTurquoise";
 }
 function displayMistyRose() 
 {
-  document.body.bgColor="MistyRose";
+  document.body.style.backgroundColor ="MistyRose";
 }
 function displayOrchid() 
 {
-  document.body.bgColor="Orchid";
+  document.body.style.backgroundColor ="Orchid";
 }
 function displayAquamarine() 
 {
-  document.body.bgColor="Aquamarine";
+  document.body.style.backgroundColor ="Aquamarine";
 }
 function displayBisque() 
 {
-  document.body.bgColor="Bisque";
+  document.body.style.backgroundColor ="Bisque";
 }
 function displayLightSeaGreen() 
 {
-  document.body.bgColor="LightSeaGreen";
+  document.body.style.backgroundColor ="LightSeaGreen";
 }
 function displayLightSalmon() 
 {
-  document.body.bgColor="LightSalmon";
+  document.body.style.backgroundColor ="LightSalmon";
 }
 function displayCoral() 
 {
-  document.body.bgColor="Coral";
+  document.body.style.backgroundColor ="Coral";
 }
 
 function displayGold() 
 {
-  document.body.bgColor="Gold";
+  document.body.style.backgroundColor ="Gold";
 }
 function displayPlum() 
 {
-  document.body.bgColor="Plum";
+  document.body.style.backgroundColor ="Plum";
 }
 function displayPeachPuff() 
 {
-  document.body.bgColor="PeachPuff";
+  document.body.style.backgroundColor ="PeachPuff";
 }
 function displayMediumSpringGreen() 
 {
-  document.body.bgColor="MediumSpringGreen";
+  document.body.style.backgroundColor ="MediumSpringGreen";
 }
 function displaySandyBrown() 
 {
-  document.body.bgColor="SandyBrown";
+  document.body.style.backgroundColor ="SandyBrown";
 }
